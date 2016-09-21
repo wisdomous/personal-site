@@ -1,0 +1,19 @@
+#portfolio {
+  display: inline-block;
+  width: 100%;
+}
+
+.row {
+  clear: both;
+  margin: auto;
+  max-width: 800px;
+  vertical-align: top;
+}
+
+.box {
+  display: inline-block;
+  font-family: 'Source Sans Pro', sans-serif;
+  font-size: 13px;
+  font-weight: 300;
+  padding-bottom: 20px;
+}
